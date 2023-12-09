@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# thinking-in-react
+
+Learning Repository for [Thinking in React](https://react.dev/learn/thinking-in-react).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
